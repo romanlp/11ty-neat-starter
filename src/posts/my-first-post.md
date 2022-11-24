@@ -26,6 +26,8 @@ tags:
 
 *You **can** combine them*
 
+![](/static/img/p1020337.jpg)
+
 ## Lists
 
 ### Unordered
